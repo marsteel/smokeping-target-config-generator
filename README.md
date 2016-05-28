@@ -9,9 +9,9 @@ Output as
 
 	  ++ aaa_bbb_ccc_ddd
 	  
-	  menu = aaa_bbb_ccc_ddd
+	  menu = aaa.bbb.ccc.ddd
 	  
-	  title = aaa_bbb_ccc_ddd
+	  title = aaa.bbb.ccc.ddd
 	  
 	  host = aaa.bbb.ccc.ddd
 	  
